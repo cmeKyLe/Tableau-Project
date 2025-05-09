@@ -36,4 +36,4 @@ This experience has deepened my appreciation for the balance between technical d
 
 
 📸 Dashboard Preview
-![Dashboard](images\dashboard.png)
+![Dashboard](images/dashboard.png)
